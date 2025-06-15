@@ -12,7 +12,7 @@
 
 ## Skills
 
-- Programming Languages: Python, Java, C, HTML, CSS, SQL
+- Programming Languages: Python, Java, C, SQL
 - Machine Learning: SVM, Image Classification
 
 ## Connect with Me
