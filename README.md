@@ -8,12 +8,12 @@
 
 🎓 Current: Student  
 - Course: Artificial Intelligence and Machine Learning  
-- Institution: Annamacharya University, Rajampet
+- Institution: Annamacharya Institute of Technology & Sciences, Rajampet
 
 ## Skills
 
 - Programming Languages: Python, Java, C, SQL
-- Machine Learning: SVM, Image Classification
+- Soft Skills: Good Communication Skills, Good Interpersonal Skills, Active Learning
 
 ## Connect with Me
 
@@ -22,9 +22,8 @@
 
 ## Interests
 
-- AI and Machine Learning
-- Human-Computer Interaction
-
+- Python Programming
+- AI and ML
 ## Goals
 
 - To gain practical experience through internships and projects.
